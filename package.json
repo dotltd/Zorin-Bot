@@ -1,0 +1,46 @@
+{
+  "name": "z0rin",
+  "version": "0.0.1",
+  "description": "ZORIN discord.",
+  "main": "zorin.js",
+  "scripts": {
+    "start": "node zorin.js"
+  },
+  "dependencies": {
+    "@pm2/io": "^4.3.3",
+    "array-sort": "^1.0.0",
+    "asynckit": "^0.4.0",
+    "chalk": "^4.0.0",
+    "cpu-percentage": "^1.0.3",
+    "dblapi.js": "^2.4.0",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.2",
+    "hastebin-gen": "^2.0.5",
+    "jimp": "^0.10.2",
+    "mathjs": "^6.6.4",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "ms-advanced": "^1.0.1",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.0",
+    "node-gyp": "^7.1.2",
+    "node-opus": "^0.3.3",
+    "quick.hook": "^1.5.1",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "socket.io-client": "^2.3.0",
+    "table": "^5.4.6",
+    "vm": "^0.1.0",
+    "webshot": "^0.18.0",
+    "ytdl-core": "^2.1.0"
+  },
+  "engines": {
+    "node": "v14.16.0",
+    "npm": "7.7.5"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^12.0.2"
+  }
+}
